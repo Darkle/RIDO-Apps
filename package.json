@@ -1,0 +1,14 @@
+{
+  "name": "rido-apps",
+  "version": "0.1.0",
+  "description": "RIDO-apps",
+  "license": "AGPL",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=18.2.0",
+    "pnpm": ">=7.18.0"
+  }
+}
